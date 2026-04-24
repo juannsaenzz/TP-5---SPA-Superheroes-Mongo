@@ -1,0 +1,607 @@
+[
+    {
+        "nombre": "Abomination",
+        "nombre_real": "Emil Blonsky",
+        "anio_aparicion": 1967,
+        "casa": "Marvel",
+        "biografia": "Un ex-espía de la KGB que fue expuesto a una dosis masiva de radiación gamma, transformándose en un monstruo con fuerza superior a la de Hulk.",
+        "equipamiento": [
+            "Garras",
+            "Piel escamosa resistente"
+        ],
+        "imagenes": [
+            "Marvel-Abomination.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Adam Warlock",
+        "nombre_real": "Él",
+        "anio_aparicion": 1967,
+        "casa": "Marvel",
+        "biografia": "Un ser artificial creado para ser el humano perfecto, poseedor de vastos poderes cósmicos y una conexión con la Gema del Alma.",
+        "equipamiento": [
+            "Gema del Alma",
+            "Vara de poder"
+        ],
+        "imagenes": [
+            "Marvel-Adam-Warlock.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Angel",
+        "nombre_real": "Warren Worthington III",
+        "anio_aparicion": 1963,
+        "casa": "Marvel",
+        "biografia": "Miembro fundador de los X-Men con alas angelicales que le permiten volar a grandes alturas y velocidades.",
+        "equipamiento": [],
+        "imagenes": [
+            "Marvel-Angel.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Annihilus",
+        "nombre_real": "",
+        "anio_aparicion": 1968,
+        "casa": "Marvel",
+        "biografia": "El tiránico gobernante de la Zona Negativa, obsesionado con la inmortalidad y la destrucción de todo lo que amenace su existencia.",
+        "equipamiento": [
+            "Cetro de Control Cósmico"
+        ],
+        "imagenes": [
+            "Marvel-Annihilus.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Ant-Man",
+        "nombre_real": "Scott Lang",
+        "anio_aparicion": 1979,
+        "casa": "Marvel",
+        "biografia": "Un experto ladrón que se convierte en héroe al heredar el traje de Hank Pym, capaz de encogerse al tamaño de una hormiga.",
+        "equipamiento": [
+            "Traje de partículas Pym",
+            "Casco de comunicación con insectos"
+        ],
+        "imagenes": [
+            "Marvel-Ant-Man.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Apocalypse",
+        "nombre_real": "En Sabah Nur",
+        "anio_aparicion": 1986,
+        "casa": "Marvel",
+        "biografia": "Uno de los primeros mutantes del mundo, cree firmemente en la supervivencia del más apto y posee tecnología celestial.",
+        "equipamiento": [
+            "Armadura Celestial"
+        ],
+        "imagenes": [
+            "Marvel-Apocalypse.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Baron Zemo",
+        "nombre_real": "Helmut Zemo",
+        "anio_aparicion": 1973,
+        "casa": "Marvel",
+        "biografia": "Un brillante estratega y maestro de la espada, dedicado a vengar la derrota de su padre y destruir a los Vengadores.",
+        "equipamiento": [
+            "Espada",
+            "Pistola",
+            "Adhesivo X"
+        ],
+        "imagenes": [
+            "Marvel-Baron-Zemo.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Beast",
+        "nombre_real": "Hank McCoy",
+        "anio_aparicion": 1963,
+        "casa": "Marvel",
+        "biografia": "Un genio científico con una mutación física que le otorga agilidad sobrehumana, fuerza y un pelaje azul distintivo.",
+        "equipamiento": [
+            "Gafas de laboratorio",
+            "Dispositivos médicos"
+        ],
+        "imagenes": [
+            "Marvel-Beast.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Beta Ray Bill",
+        "nombre_real": "",
+        "anio_aparicion": 1983,
+        "casa": "Marvel",
+        "biografia": "Un noble guerrero Korbinita que demostró ser digno de levantar el Mjolnir, recibiendo su propio martillo, el Stormbreaker.",
+        "equipamiento": [
+            "Stormbreaker"
+        ],
+        "imagenes": [
+            "Marvel-BetaRayBill.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Black Bolt",
+        "nombre_real": "Blackagar Boltagon",
+        "anio_aparicion": 1965,
+        "casa": "Marvel",
+        "biografia": "El rey de los Inhumanos cuya voz es tan poderosa que un simple susurro puede destruir una ciudad entera.",
+        "equipamiento": [
+            "Antena de sintonización"
+        ],
+        "imagenes": [
+            "Marvel-Black-Bolt.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Black Cat",
+        "nombre_real": "Felicia Hardy",
+        "anio_aparicion": 1979,
+        "casa": "Marvel",
+        "biografia": "Una experta ladrona con la habilidad de manipular la probabilidad, causando mala suerte a sus enemigos.",
+        "equipamiento": [
+            "Garras retráctiles",
+            "Ganchos"
+        ],
+        "imagenes": [
+            "Marvel-Black-Cat.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Black Panther",
+        "nombre_real": "T'Challa",
+        "anio_aparicion": 1966,
+        "casa": "Marvel",
+        "biografia": "El protector de Wakanda, bendecido con habilidades físicas mejoradas por la hierba en forma de corazón y tecnología de vibranium.",
+        "equipamiento": [
+            "Traje de Vibranium",
+            "Garras de energía"
+        ],
+        "imagenes": [
+            "Marvel-Black-Panther.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Black Widow",
+        "nombre_real": "Natasha Romanoff",
+        "anio_aparicion": 1964,
+        "casa": "Marvel",
+        "biografia": "Una de las espías y asesinas más letales del mundo, convertida en una pieza clave de los Vengadores.",
+        "equipamiento": [
+            "Picaduras de viuda",
+            "Bastones eléctricos"
+        ],
+        "imagenes": [
+            "Marvel-Black-Widow.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Blizzard",
+        "nombre_real": "Donnie Gill",
+        "anio_aparicion": 1987,
+        "casa": "Marvel",
+        "biografia": "Un criminal que utiliza un traje criogénico para congelar a sus oponentes y proyectar ráfagas de hielo.",
+        "equipamiento": [
+            "Traje criogénico"
+        ],
+        "imagenes": [
+            "Marvel-Blizzard.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Bullseye",
+        "nombre_real": "Lester",
+        "anio_aparicion": 1976,
+        "casa": "Marvel",
+        "biografia": "Un asesino psicópata con la puntería perfecta, capaz de convertir cualquier objeto cotidiano en un arma mortal.",
+        "equipamiento": [
+            "Shurikens",
+            "Cuchillos"
+        ],
+        "imagenes": [
+            "Marvel-Bullseye.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Cable",
+        "nombre_real": "Nathan Summers",
+        "anio_aparicion": 1986,
+        "casa": "Marvel",
+        "biografia": "Un guerrero que viaja en el tiempo, hijo de Scott Summers, infectado con un virus tecno-orgánico.",
+        "equipamiento": [
+            "Brazo biónico",
+            "Armas futuristas"
+        ],
+        "imagenes": [
+            "Marvel-Cable.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Captain America",
+        "nombre_real": "Steve Rogers",
+        "anio_aparicion": 1941,
+        "casa": "Marvel",
+        "biografia": "El primer vengador, transformado por el suero del súper soldado para ser el símbolo definitivo de la libertad.",
+        "equipamiento": [
+            "Escudo de Vibranium"
+        ],
+        "imagenes": [
+            "Marvel-Captain-America.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Captain Britain",
+        "nombre_real": "Brian Braddock",
+        "anio_aparicion": 1976,
+        "casa": "Marvel",
+        "biografia": "El protector del Reino Unido y del multiverso, cuyos poderes provienen de la magia de Merlín y Roma.",
+        "equipamiento": [
+            "Amuleto del Derecho"
+        ],
+        "imagenes": [
+            "Marvel-Captain-Britain.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Charlie-27",
+        "nombre_real": "",
+        "anio_aparicion": 1969,
+        "casa": "Marvel",
+        "biografia": "Un soldado nacido en Júpiter con una masa muscular masiva diseñada para resistir la gravedad del planeta gigante.",
+        "equipamiento": [
+            "Pistola láser"
+        ],
+        "imagenes": [
+            "Marvel-Charlie27.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Cloak",
+        "nombre_real": "Tyrone Johnson",
+        "anio_aparicion": 1982,
+        "casa": "Marvel",
+        "biografia": "Poseedor de una conexión con la Dimensión de la Fuerza Oscura, capaz de teletransportar y envolver a sus enemigos en oscuridad.",
+        "equipamiento": [
+            "Capa de la Fuerza Oscura"
+        ],
+        "imagenes": [
+            "Marvel-Cloak.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Colossus",
+        "nombre_real": "Piotr Rasputin",
+        "anio_aparicion": 1975,
+        "casa": "Marvel",
+        "biografia": "Un mutante ruso que puede transformar su piel en acero orgánico, otorgándole una fuerza y resistencia inmensas.",
+        "equipamiento": [],
+        "imagenes": [
+            "Marvel-Colossus.png"
+        ],
+        "logo_casa": "marvel_logo.png"
+    },
+    {
+        "nombre": "Aquaman",
+        "nombre_real": "Arthur Curry",
+        "anio_aparicion": 1941,
+        "casa": "DC",
+        "biografia": "Heredero del trono de la Atlántida, Aquaman protege tanto la tierra como los océanos con su fuerza real.",
+        "equipamiento": [
+            "Tridente de Poseidón"
+        ],
+        "imagenes": [
+            "DC-Aquaman.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Batman",
+        "nombre_real": "Bruce Wayne",
+        "anio_aparicion": 1939,
+        "casa": "DC",
+        "biografia": "Tras la muerte de sus padres, Bruce Wayne se convirtió en el Caballero Oscuro de Gotham, usando su intelecto y riqueza contra el crimen.",
+        "equipamiento": [
+            "Bati-cinturón",
+            "Batimóvil",
+            "Batarangs"
+        ],
+        "imagenes": [
+            "DC-Batman.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Brainiac",
+        "nombre_real": "Vril Dox",
+        "anio_aparicion": 1958,
+        "casa": "DC",
+        "biografia": "Un androide extraterrestre con un intelecto de nivel doce, dedicado a encoger y embotellar ciudades de mundos civilizados.",
+        "equipamiento": [
+            "Nave calavera",
+            "Rayos encogedores"
+        ],
+        "imagenes": [
+            "DC-Brainiac.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Catwoman",
+        "nombre_real": "Selina Kyle",
+        "anio_aparicion": 1940,
+        "casa": "DC",
+        "biografia": "Una experta ladrona de joyas con una relación compleja con Batman; es tan ágil como letal.",
+        "equipamiento": [
+            "Látigo",
+            "Garras"
+        ],
+        "imagenes": [
+            "DC-Catwoman.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Cyborg",
+        "nombre_real": "Victor Stone",
+        "anio_aparicion": 1980,
+        "casa": "DC",
+        "biografia": "Mitad hombre, mitad máquina, Vic Stone es un genio tecnológico y un miembro central de la Liga de la Justicia.",
+        "equipamiento": [
+            "Cañón sónico",
+            "Interfaz computacional"
+        ],
+        "imagenes": [
+            "DC-Cyborg.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Darkseid",
+        "nombre_real": "Uxas",
+        "anio_aparicion": 1970,
+        "casa": "DC",
+        "biografia": "El despiadado gobernante de Apokolips, cuyo único objetivo es encontrar la Ecuación de la Anti-Vida para dominar el universo.",
+        "equipamiento": [
+            "Rayos Omega"
+        ],
+        "imagenes": [
+            "DC-Darkseid.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Deadman",
+        "nombre_real": "Boston Brand",
+        "anio_aparicion": 1967,
+        "casa": "DC",
+        "biografia": "El fantasma de un acróbata asesinado que puede poseer cualquier cuerpo vivo para luchar por la justicia.",
+        "equipamiento": [],
+        "imagenes": [
+            "DC-Deadman.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Deathstroke",
+        "nombre_real": "Slade Wilson",
+        "anio_aparicion": 1980,
+        "casa": "DC",
+        "biografia": "El mercenario más grande del mundo, con habilidades físicas y mentales mejoradas por un experimento militar.",
+        "equipamiento": [
+            "Espada de Prometio",
+            "Rifle de precisión"
+        ],
+        "imagenes": [
+            "DC-Deathstroke.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Dr Fate",
+        "nombre_real": "Kent Nelson",
+        "anio_aparicion": 1940,
+        "casa": "DC",
+        "biografia": "Un poderoso hechicero que utiliza el Casco de Nabu para canalizar los poderes de un Señor del Orden.",
+        "equipamiento": [
+            "Casco del Destino",
+            "Capa del Destino"
+        ],
+        "imagenes": [
+            "DC-Dr-Fate.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Flash",
+        "nombre_real": "Barry Allen",
+        "anio_aparicion": 1956,
+        "casa": "DC",
+        "biografia": "El velocista escarlata, capaz de correr a la velocidad de la luz y vibrar a través de objetos sólidos.",
+        "equipamiento": [
+            "Traje de fricción"
+        ],
+        "imagenes": [
+            "DC-Flash.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Green Lantern",
+        "nombre_real": "Hal Jordan",
+        "anio_aparicion": 1959,
+        "casa": "DC",
+        "biografia": "Un piloto de pruebas que fue elegido por un anillo de poder para unirse a una fuerza policial intergaláctica.",
+        "equipamiento": [
+            "Anillo de poder",
+            "Batería de poder"
+        ],
+        "imagenes": [
+            "DC-Green-Lantern.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Harley Quinn",
+        "nombre_real": "Harleen Quinzel",
+        "anio_aparicion": 1992,
+        "casa": "DC",
+        "biografia": "La antigua psiquiatra del Joker que se convirtió en su cómplice y, eventualmente, en una antiheroína independiente.",
+        "equipamiento": [
+            "Mazo gigante",
+            "Bate de béisbol"
+        ],
+        "imagenes": [
+            "DC-Harley-Quinn.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Joker",
+        "nombre_real": "Desconocido",
+        "anio_aparicion": 1940,
+        "casa": "DC",
+        "biografia": "El Príncipe Payaso del Crimen, un genio criminal nihilista y el archienemigo más peligroso de Batman.",
+        "equipamiento": [
+            "Gas de la risa",
+            "Cartas afiladas"
+        ],
+        "imagenes": [
+            "DC-Joker.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Kalibak",
+        "nombre_real": "",
+        "anio_aparicion": 1971,
+        "casa": "DC",
+        "biografia": "El hijo mayor de Darkseid y un general brutal de Apokolips, dotado de una fuerza física devastadora.",
+        "equipamiento": [
+            "Maza Beta"
+        ],
+        "imagenes": [
+            "DC-Kalibak.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Martian Manhunter",
+        "nombre_real": "J'onn J'onzz",
+        "anio_aparicion": 1955,
+        "casa": "DC",
+        "biografia": "El último superviviente de Marte, con poderes de telepatía, cambio de forma y superfuerza.",
+        "equipamiento": [],
+        "imagenes": [
+            "DC-Martian-Manhunter.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Mr Freeze",
+        "nombre_real": "Victor Fries",
+        "anio_aparicion": 1959,
+        "casa": "DC",
+        "biografia": "Un científico que debe vivir en temperaturas bajo cero tras un accidente mientras intentaba salvar a su esposa enferma.",
+        "equipamiento": [
+            "Cañón de hielo",
+            "Traje criogénico"
+        ],
+        "imagenes": [
+            "DC-Mr-Freeze.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Mr Miracle",
+        "nombre_real": "Scott Free",
+        "anio_aparicion": 1971,
+        "casa": "DC",
+        "biografia": "El mayor escapista del universo, criado en los pozos de Apokolips pero dedicado a la libertad y la justicia.",
+        "equipamiento": [
+            "Aero-discos",
+            "Caja Madre"
+        ],
+        "imagenes": [
+            "DC-Mr-Miracle.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Orion",
+        "nombre_real": "",
+        "anio_aparicion": 1971,
+        "casa": "DC",
+        "biografia": "Hijo biológico de Darkseid pero criado en Nueva Génesis, lucha constantemente contra su naturaleza violenta.",
+        "equipamiento": [
+            "Astro-Arnés"
+        ],
+        "imagenes": [
+            "DC-Orion.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Peacemaker",
+        "nombre_real": "Christopher Smith",
+        "anio_aparicion": 1966,
+        "casa": "DC",
+        "biografia": "Un justiciero que ama tanto la paz que está dispuesto a matar a cualquiera para conseguirla.",
+        "equipamiento": [
+            "Casco de tecnología",
+            "Pistola Desert Eagle"
+        ],
+        "imagenes": [
+            "DC-Peacemaker.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Penguin",
+        "nombre_real": "Oswald Cobblepot",
+        "anio_aparicion": 1941,
+        "casa": "DC",
+        "biografia": "Un señor del crimen de Gotham que utiliza su fachada de hombre de negocios y paraguas trucados para sus planes ilegales.",
+        "equipamiento": [
+            "Paraguas de armas",
+            "Monóculo"
+        ],
+        "imagenes": [
+            "DC-Penguin.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    },
+    {
+        "nombre": "Plastic Man",
+        "nombre_real": "Eel O'Brian",
+        "anio_aparicion": 1941,
+        "casa": "DC",
+        "biografia": "Un antiguo criminal que ganó la capacidad de estirar y moldear su cuerpo en cualquier forma imaginable.",
+        "equipamiento": [
+            "Gafas de sol"
+        ],
+        "imagenes": [
+            "DC-Plastic-Man.png"
+        ],
+        "logo_casa": "dc_logo.png"
+    }
+]
